@@ -1,0 +1,101 @@
+
+#EXTM3U
+
+##### 1930-as évek #####
+#EXTINF:-1 group-title="1930-as évek" tvg-id="movie.1930s" tvg-logo="https://image.tmdb.org/t/p/w500/xyz1930.jpg", Klasszikus Film (1935)
+#DESCRIPTION: 1930-as évek klasszikus filmje.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+##### 1940-es évek #####
+#EXTINF:-1 group-title="1940-es évek" tvg-id="movie.1940s" tvg-logo="https://image.tmdb.org/t/p/w500/xyz1940.jpg", Klasszikus Film (1944)
+#DESCRIPTION: 1940-es évek klasszikus filmje.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+##### 1950-es évek #####
+#EXTINF:-1 group-title="1950-es évek" tvg-id="movie.1950s" tvg-logo="https://image.tmdb.org/t/p/w500/xyz1950.jpg", Klasszikus Film (1957)
+#DESCRIPTION: 1950-es évek klasszikus filmje.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+##### 1960-es évek #####
+#EXTINF:-1 group-title="1960-es évek" tvg-id="movie.1960s" tvg-logo="https://image.tmdb.org/t/p/w500/xyz1960.jpg", Klasszikus Film (1966)
+#DESCRIPTION: 1960-es évek klasszikus filmje.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+##### 1970-es évek #####
+#EXTINF:-1 group-title="1970-es évek" tvg-id="movie.1970s" tvg-logo="https://image.tmdb.org/t/p/w500/xyz1970.jpg", Klasszikus Film (1975)
+#DESCRIPTION: 1970-es évek klasszikus filmje.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+##### 1980-es évek #####
+#EXTINF:-1 group-title="1980-as évek" tvg-id="movie.1980s" tvg-logo="https://image.tmdb.org/t/p/w500/xyz1980.jpg", Klasszikus Film (1984)
+#DESCRIPTION: 1980-as évek klasszikus filmje.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+##### 1990-es évek #####
+#EXTINF:-1 group-title="1990-es évek" tvg-id="movie.1990s" tvg-logo="https://image.tmdb.org/t/p/w500/xyz1990.jpg", Klasszikus Film (1999)
+#DESCRIPTION: 1990-es évek klasszikus filmje.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+##### 2000-es évek #####
+#EXTINF:-1 group-title="2000-es évek" tvg-id="movie.2000s" tvg-logo="https://image.tmdb.org/t/p/w500/xyz2000.jpg", Klasszikus Film (2007)
+#DESCRIPTION: 2000-es évek klasszikus filmje.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+##### 2010-es évek #####
+#EXTINF:-1 group-title="2010-es évek" tvg-id="movie.2010s" tvg-logo="https://image.tmdb.org/t/p/w500/xyz2010.jpg", Klasszikus Film (2014)
+#DESCRIPTION: 2010-es évek klasszikus filmje.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+##### 2020-as évek #####
+#EXTINF:-1 group-title="2020-as évek" tvg-id="movie.2020s" tvg-logo="https://image.tmdb.org/t/p/w500/xyz2020.jpg", Klasszikus Film (2023)
+#DESCRIPTION: 2020-as évek klasszikus filmje.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+##### Műfajok #####
+#EXTINF:-1 group-title="Western" tvg-id="movie.western" tvg-logo="https://image.tmdb.org/t/p/w500/xyzwest.jpg", Western Példa
+#DESCRIPTION: Klasszikus western film.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+#EXTINF:-1 group-title="Akció" tvg-id="movie.action" tvg-logo="https://image.tmdb.org/t/p/w500/xyzaction.jpg", Akciófilm Példa
+#DESCRIPTION: Klasszikus akciófilm.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+#EXTINF:-1 group-title="Thriller" tvg-id="movie.thriller" tvg-logo="https://image.tmdb.org/t/p/w500/xyzthriller.jpg", Thriller Példa
+#DESCRIPTION: Klasszikus thriller film.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+#EXTINF:-1 group-title="Horror" tvg-id="movie.horror" tvg-logo="https://image.tmdb.org/t/p/w500/xyzhorror.jpg", Horrorfilm Példa
+#DESCRIPTION: Klasszikus horrorfilm.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+#EXTINF:-1 group-title="Premier" tvg-id="movie.premier" tvg-logo="https://image.tmdb.org/t/p/w500/xyzpremier.jpg", Új Premier Film
+#DESCRIPTION: Legújabb premier film.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+#EXTINF:-1 group-title="Sci-Fi" tvg-id="movie.scifi" tvg-logo="https://image.tmdb.org/t/p/w500/xyzscifi.jpg", Sci-Fi Példa
+#DESCRIPTION: Klasszikus sci-fi film.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+#EXTINF:-1 group-title="Vígjáték" tvg-id="movie.comedy" tvg-logo="https://image.tmdb.org/t/p/w500/xyzcomedy.jpg", Vígjáték Példa
+#DESCRIPTION: Klasszikus vígjáték film.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+#EXTINF:-1 group-title="Háborús" tvg-id="movie.war" tvg-logo="https://image.tmdb.org/t/p/w500/xyzwar.jpg", Háborús Film Példa
+#DESCRIPTION: Klasszikus háborús film.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+#EXTINF:-1 group-title="Történelmi" tvg-id="movie.history" tvg-logo="https://image.tmdb.org/t/p/w500/xyzhistory.jpg", Történelmi Film Példa
+#DESCRIPTION: Klasszikus történelmi film.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+#EXTINF:-1 group-title="Bollywood" tvg-id="movie.bollywood" tvg-logo="https://image.tmdb.org/t/p/w500/xyzbolly.jpg", Bollywood Példa
+#DESCRIPTION: Klasszikus bollywood film.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+
+#EXTINF:-1 group-title="Magyar" tvg-id="movie.hungary" tvg-logo="https://image.tmdb.org/t/p/w500/xyzhun.jpg", Magyar Film Példa
+#DESCRIPTION: Klasszikus magyar film.
+https://hls2-cdn32.cloudlionscdn.com/hls/jgv6yKRcbqQHZiPx0VSmxOvmkoaWHo/index_1920x1080.m3u8
+```
+
+
+
